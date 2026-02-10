@@ -1,0 +1,23 @@
+# Unreal Engine 5 Default Ignore List
+
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+.idea/
+.vs/
+.vscode/
+
+# Visual Studio files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.user
+*.opendb
+
+# XCode files (Mac)
+*.xcodeproj
+*.xcworkspace
