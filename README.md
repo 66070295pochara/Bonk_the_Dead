@@ -6,7 +6,7 @@
 
 Bonk the Dead เป็นเกมแนว Survival ที่ให้ผู้เล่นรับบทเป็น คนเฝ้าสุสาน ที่ต้องเผชิญหน้ากับเหล่าศพที่พยายามหนีออกจากสุสาน โดยเน้นระบบการต่อสู้ที่สนุกและบรรยากาศที่เป็นเอกลักษณ์
 
-<img width="1587" height="2245" alt="5_Poster" src="https://github.com/user-attachments/assets/87beb2f6-2a0c-4692-aa8f-9c884ceda616" />
+<img width="1587" height="2500" alt="5_Poster" src="https://github.com/user-attachments/assets/87beb2f6-2a0c-4692-aa8f-9c884ceda616" />
 
  ### 🛠 Tools
 
